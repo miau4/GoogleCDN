@@ -34,7 +34,7 @@ This project allows you to deploy a **VLESS proxy** server over **WebSocket** us
       "settings": {
         "clients": [
           {
-            "id": "a3b7de87-b46f-4dcf-b6ed-5bf5ebe83167",
+            "id": "cd45f89a-7650-4c69-9661-5a16edc7853d",
             "level": 0
           }
         ],
@@ -43,7 +43,7 @@ This project allows you to deploy a **VLESS proxy** server over **WebSocket** us
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/t.me/ragnarservers"
+          "path": "@EUSUPREMO"
         }
       }
     }
@@ -108,9 +108,9 @@ Use the following settings in your client app:
 | Setting    | Value                                  |
 | ---------- | -------------------------------------- |
 | Protocol   | VLESS                                  |
-| Address    | `your.domain.com`                      |
+| Address    | `1.netsimon.store`                      |
 | Port       | `443` (HTTPS)                          |
-| UUID       | `a3b7de87-b46f-4dcf-b6ed-5bf5ebe83167` |
+| UUID       | `cd45f89a-7650-4c69-9661-5a16edc7853d` |
 | Encryption | none                                   |
 | Transport  | WebSocket (WS)                         |
 | WS Path    | `/notragnar`                           |
@@ -144,7 +144,7 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 
-Made with ❤️ by [Ragnar](https://t.me/not_ragnar)
+Made with ❤️ by [Ragnar](https://@EUSUPREMO)
 
 ---
 
