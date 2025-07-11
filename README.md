@@ -108,7 +108,7 @@ Use the following settings in your client app:
 | Setting    | Value                                  |
 | ---------- | -------------------------------------- |
 | Protocol   | VLESS                                  |
-| Address    | `1.netsimon.store`                      |
+| Address    | `gcloud.netsimon.store`                      |
 | Port       | `443` (HTTPS)                          |
 | UUID       | `cd45f89a-7650-4c69-9661-5a16edc7853d` |
 | Encryption | none                                   |
